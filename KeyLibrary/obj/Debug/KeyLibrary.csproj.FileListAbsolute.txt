@@ -1,0 +1,6 @@
+E:\Projects\KeyLibrary\KeyLibrary\bin\Debug\KeyLibrary.exe.config
+E:\Projects\KeyLibrary\KeyLibrary\bin\Debug\KeyLibrary.exe
+E:\Projects\KeyLibrary\KeyLibrary\bin\Debug\KeyLibrary.pdb
+E:\Projects\KeyLibrary\KeyLibrary\obj\Debug\KeyLibrary.csprojAssemblyReference.cache
+E:\Projects\KeyLibrary\KeyLibrary\obj\Debug\KeyLibrary.exe
+E:\Projects\KeyLibrary\KeyLibrary\obj\Debug\KeyLibrary.pdb
